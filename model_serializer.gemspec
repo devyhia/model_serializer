@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "model_serializer"
   spec.version       = ModelSerializer::VERSION
   spec.authors       = ["Yehia Abo El-Nga"]
-  spec.email         = ["yehia@devrok.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["yehia@ewsalo.com"]
+  spec.description   = %q{A model serializer}
+  spec.summary       = %q{A model serializer}
   spec.homepage      = ""
   spec.license       = "MIT"
 
