@@ -61,3 +61,5 @@ Array.class_eval do
     arr = self.map { |modl| modl.json(false, *args) }
   end
 end
+
+ActiveRecord::Base.send :include, ModelSerializer
